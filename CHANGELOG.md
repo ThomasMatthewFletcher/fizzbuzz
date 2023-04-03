@@ -1,5 +1,11 @@
 # @thomasmatthewfletcher/fizzbuzz
 
+## 1.0.1
+
+### Patch Changes
+
+- Fix the filename case
+
 ## 1.0.0
 
 ### Major Changes
