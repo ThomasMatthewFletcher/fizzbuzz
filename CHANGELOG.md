@@ -1,5 +1,11 @@
 # @thomasmatthewfletcher/fizzbuzz
 
+## 1.0.0
+
+### Major Changes
+
+- First major release
+
 ## 0.0.3
 
 ### Patch Changes

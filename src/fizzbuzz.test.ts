@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import FizzBuzz from './fizzbuzz';
+import FizzBuzz from './FizzBuzz';
 
 describe('FizzBuzz', () => {
   it('should count normally when no values specified', () => {

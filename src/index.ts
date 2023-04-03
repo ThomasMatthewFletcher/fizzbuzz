@@ -1,1 +1,2 @@
-export * from './fizzbuzz';
+import FizzBuzz from './FizzBuzz';
+export { FizzBuzz };
